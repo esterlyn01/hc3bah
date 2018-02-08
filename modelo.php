@@ -14,7 +14,7 @@
 
 	function tabla_1($s, $ls) {
 	$marca="JESR<br/>MRM;
-   $marca="marly<br/>gas";
+   $marca="marly<br/>gasddd";
 	$co=1;
 	$ra1=1;
 	$ra2=15;
