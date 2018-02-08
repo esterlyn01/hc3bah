@@ -1,0 +1,36 @@
+body{
+	text-align:center;
+	}
+/* remember to define focus styles! */
+
+
+#contenido{
+           margin-top:0px;
+			width:800px;
+           text-align:justify;
+		    } 	
+
+#contenido h1{
+           font-size:100;
+		    position:center;
+			 margin:7px;
+		   } 	 
+ 		   
+#contenido p{
+          width:1px;
+		   border-color:silver;
+		   padding:6px;
+		   }
+
+
+.contenido2 img{
+           margin-left:10px;
+		   margin-right:10px;
+		   margin-top:0px;
+		   width:250px;
+		   height:190px;
+		   border:1px solid #777777;
+		   border-color:silver;
+		   		   
+		   } 	 		     
+	 
