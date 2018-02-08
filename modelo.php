@@ -11,7 +11,6 @@
 	return ($tablas);
 	}
 
-
 	function tabla_1($s, $ls) {
 	$marca="JESR<br/>MRM;
    $marca="marly<br/>gasddd";
